@@ -1,4 +1,4 @@
-# ZOMATO_ANALYTICS
+# Zomato-Like Food Ordering & Sales Analytics
 
 OVERVIEW :
 A full-stack Zomato-like food ordering application with integrated SQL-based sales and customer analytics. Users can place orders through a web interface, while the backend stores and analyzes data to generate business insights.
